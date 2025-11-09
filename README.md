@@ -45,7 +45,5 @@ cd windsurf_app
 npm install
 npm run dev
 
-Team Contributions
-Karan Gaudi: Colab analysis, model validation, executive summary
 
 
